@@ -23,7 +23,7 @@ const info = {
     experience: [
         {
             Hackathon: "Moving Object Detection",
-            role: "Provides essential data",
+            role: "Developer team members",
             description: "The process involves segmenting moving objects from the stationary background in a video. A common technique to achieve this is by creating a model of the static background and subtracting it from the current frame to highlight the differences (moving objects).It identifies physical movement of an object within a specific area by detecting changes between consecutive video frames.",
         },
         
